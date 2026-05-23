@@ -15,7 +15,7 @@ El código emplea algoritmos de grafos que permiten:
 1. Abrir MATLAB
 2. Cargar el archivo `CodigoGrafosRutasUFV.m`
 3. Ejecutar el script desde la consola o el editor
-    -  Consultar el barrio o intercambiador de interes e introducir en la consola.
+    -  Consultar el barrio o intercambiador de interés e introducir en la consola.
 
 ## AUTORES
 María Aparicio Rodríguez
